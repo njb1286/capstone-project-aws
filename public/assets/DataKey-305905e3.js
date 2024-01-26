@@ -1,0 +1,1 @@
+import{r as e}from"./index-c94b69a8.js";function c(r){const t=e.useRef(null);return e.useEffect(()=>{t.current=r}),t.current}var n=Function.prototype.bind.call(Function.prototype.call,[].slice);function a(r,t){return n(r.querySelectorAll(t))}const o="data-rr-ui-";function s(r){return`${o}${r}`}export{s as d,a as q,c as u};
